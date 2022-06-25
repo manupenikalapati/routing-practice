@@ -1,0 +1,30 @@
+.home-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+}
+.main-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-image-style {
+  height: 200px;
+  width: 200px;
+}
+.image-card {
+  text-align: center;
+}
+.about-heading-style {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #6d396b;
+}
+.para-style {
+  font-family: 'Roboto';
+  text-align: center;
+  color: #555555;
+}

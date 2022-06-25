@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.home-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  height: 100vh;
+}
+.main-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-image-style {
+  height: 200px;
+  width: 200px;
+}
+.image-card {
+  text-align: center;
+}
+.contact-heading-style {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #6d396b;
+  text-align: center;
+}
